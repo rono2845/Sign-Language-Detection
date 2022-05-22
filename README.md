@@ -1,4 +1,4 @@
 # Sign-Language-Detection
-Helps to understand the differently abled person and communicated.
-Used Tensorflow & Keras.
-Implemented different types of algorithms(Sequential CNN and RandomForest) and compared accuracies.
+1)Helps to understand the differently abled person and communicated.
+2)Used Tensorflow & Keras.
+3)Implemented different types of algorithms(Sequential CNN and RandomForest) and compared accuracies.
