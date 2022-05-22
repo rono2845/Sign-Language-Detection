@@ -1,5 +1,5 @@
 # Sign-Language-Detection
-
+  Helps to understand the differently abled person and communicate.
 # Motivation
 
 The 2011 Indian census cites roughly 1.3 million people with “hearing impairment”. In contrast to that numbers from India’s 
